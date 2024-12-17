@@ -1,0 +1,6 @@
+/* Center the canvas on the page */
+canvas {
+  background-color: black;
+  display: block;
+  margin: 0 auto;
+}
